@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("Hello Git1");
         System.out.println("HelloGit");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
